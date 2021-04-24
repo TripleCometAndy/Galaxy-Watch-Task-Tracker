@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="6.0" package="org.example.galaxywatchtasktracker" version="1.0.0">
+	<profile name="wearable" />
+	<ui-application appid="org.example.galaxywatchtasktracker" exec="galaxywatchtasktracker" type="capp" multiple="false" taskmanage="true" nodisplay="false">
+		<icon>galaxywatchtasktracker.png</icon>
+		<label>galaxywatchtasktracker</label>
+	</ui-application>
+</manifest>
